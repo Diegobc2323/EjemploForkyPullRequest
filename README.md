@@ -2,8 +2,9 @@ Ejemplo Fork y PullRequest con GitHub
 
 Escribe tu nombre en este fichero:
 
+- Juan Francisco
+- David Lobo Lafaja
 - Tomás Generelo
-
 -Iván Sanchez
 -silvia
 -Oscar Magallon
@@ -12,4 +13,3 @@ Escribe tu nombre en este fichero:
 - Oscar Merino
 - Javier Legua
 - Kacper Borylo
-
