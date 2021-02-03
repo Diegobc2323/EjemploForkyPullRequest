@@ -4,14 +4,12 @@ Escribe tu nombre en este fichero:
 
 - Juan Francisco
 
+-Iván Sanchez
 -silvia
-Oscar Magallon
+-Oscar Magallon
 - Diego Capellán
 - Marcos Hernández Aragonés
 - Oscar Merino
 - Javier Legua
 - Kacper Borylo
-
-
-
 
