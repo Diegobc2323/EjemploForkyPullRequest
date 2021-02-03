@@ -4,3 +4,5 @@ Escribe tu nombre en este fichero:
 
 - Juan Francisco
 - Oscar Merino
+- Javier Legua
+
